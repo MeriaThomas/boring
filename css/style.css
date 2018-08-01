@@ -1,0 +1,15 @@
+h2.intro{
+  color: red;
+  font-style: italic;
+}
+p.intro{
+  color: blue;
+  font-family: cursive;
+}
+img.intro{
+  border-radius: 8px;
+}
+
+body{
+  text-align: center;
+}
