@@ -1,12 +1,9 @@
-h2.intro{
-  color: red;
-  font-style: italic;
-}
-p.intro{
+.intro{
   color: blue;
+  font-style: italic;
   font-family: cursive;
 }
-img.intro{
+img{
   border-radius: 8px;
 }
 
